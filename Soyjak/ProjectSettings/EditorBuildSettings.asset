@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Theactuallevel.unity
+    guid: 08ad70307c4d5c34ea57f149777fcb36
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 9d1365c8e9d45164fb98dcb9ce61f863
+  - enabled: 1
+    path: Assets/Scenes/Winningscene.unity
+    guid: 6974443406ccb75429d07ea37bb1acf8
+  - enabled: 1
+    path: Assets/Scenes/Mental asylum.unity
+    guid: 9b4e54ce3a8d4d946bf1bc2d660bfd9e
+  - enabled: 1
+    path: Assets/Scenes/Firstpersonshooter.unity
+    guid: de0cda9ce0615764d95004ff5506f961
+  - enabled: 1
+    path: Assets/Scenes/GameoverFPS.unity
+    guid: 2b5ccfdf7b9d99945a913e0ca83c1097
+  - enabled: 1
+    path: Assets/Scenes/Firstscene.unity
+    guid: aa1d44597c92b664cbbea8c0545a4798
+  - enabled: 1
+    path: Assets/Scenes/Gameover asylum.unity
+    guid: b2a061d237ee04e4bab63e8992784af3
+  - enabled: 1
+    path: Assets/Scenes/Winningsceneasylum.unity
+    guid: d471a749851d7fc499a256e98ad1beda
+  m_configObjects: {}
